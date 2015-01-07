@@ -1,8 +1,12 @@
+//
+//  ViewController.swift
+//  testAnimate
+//
+//  Created by Artwalk on 1/8/15.
+//  Copyright (c) 2015 Artwalk. All rights reserved.
+//
 
-![](http://cl.ly/image/1f2F301V2T38/testAnimation.gif)
-
-
-```Swift
+import UIKit
 
 class ViewController: UIViewController {
 
@@ -38,5 +42,3 @@ class ViewController: UIViewController {
 
 }
 
-
-```
